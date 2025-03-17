@@ -10,6 +10,7 @@ This project is designed to identify spam emails using machine learning techniqu
 
 ## 🔍 Project Status
 - 🟢 Ongoing Development: Continuously improving model accuracy, UI enhancements, and feature upgrades for optimal performance.
+
 - ![Screenshot 2025-03-17 050627](https://github.com/user-attachments/assets/65b6a230-1748-476a-bc07-14c3b062ca6e)
 
 
