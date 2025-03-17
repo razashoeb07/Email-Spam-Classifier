@@ -15,12 +15,13 @@ This project is designed to identify spam emails using machine learning techniqu
 
 
 ## 🛠️ Tech Stack
-- 🗒️ Python (Pandas, NumPy, Scikit-learn)
-- 💡 Streamlit for interactive dashboard development
-- 📊 Data Cleaning and Feature Engineering
-- 🤖 Natural Language Processing (NLP) for text data processing and analysis
-- 📈 Machine Learning Models for email classification
-
+- 🐍 **Python** — Core programming language  
+- 📊 **Pandas, NumPy** — Data manipulation and analysis  
+- 📈 **Matplotlib, Seaborn** — Data visualization and insights  
+- 💡 **Streamlit** — Interactive dashboard development  
+- 🧹 **Data Cleaning & Feature Engineering** — For improved model performance  
+- 🤖 **Natural Language Processing (NLP)** — Text data processing and analysis  
+- 🔍 **Scikit-learn, NLTK** — Model training, evaluation, and deployment  
 
 ## 📧 Connect with Me
 - 👥 **LinkedIn:** www.linkedin.com/in/shoebraza02
