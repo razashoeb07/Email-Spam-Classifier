@@ -29,7 +29,47 @@ This project is designed to identify spam emails using machine learning techniqu
 - 💡 **Streamlit** — Interactive dashboard development  
 - 🧹 **Data Cleaning & Feature Engineering** — For improved model performance  
 - 🤖 **Natural Language Processing (NLP)** — Text data processing and analysis  
-- 🔍 **Scikit-learn, NLTK** — Model training, evaluation, and deployment  
+- 🔍 **Scikit-learn, NLTK** — Model training, evaluation, and deployment
+
+## 📨 Results
+- 🧠 Built a machine learning model to classify emails as spam or not spam with high accuracy.
+
+- ✅ Utilized NLP techniques like tokenization and vectorization for text preprocessing.
+
+- 📊 Visualized insights such as spam-to-ham ratios and frequent spam keywords.
+
+## 🌟 Future Enhancements
+- 🔍 Integrate more advanced models like BERT or LSTM for better contextual understanding.
+
+- 📬 Add real-time email filtering integration with email clients.
+
+## 📚 Project Structure
+📦 Email Spam Classifier Web App
+┣ 📂 assets               # Images, logos, and media files  
+┃  ┣ 🖼️ codingisfun_logo.png  
+┃  ┣ 🖼️ images.png  
+┃  ┣ 🖼️ spam.png  
+┃  ┗ 📄 Shoebraza_Python_Developer_25.pdf  
+
+┣ 📂 forms                # Form handling scripts  
+┃  ┗ 📜 contact.py  
+
+┣ 📂 Views                # Web app components and logic  
+┃  ┣ 📜 about_me.py  
+┃  ┣ 📜 app.py            # Streamlit dashboard entry point  
+┃  ┣ 📜 chatbot.py  
+┃  ┣ 📜 email_spam_classifier.py  
+┃  ┗ 📜 code.py           # Helper visualization and UI logic  
+
+┣ 📜 main.py              # Main backend logic  
+┣ 📜 model.pkl            # Trained machine learning model  
+┣ 📜 vectorizer.pkl       # Vectorizer used for transforming text  
+┣ 📜 spam.csv             # Labeled dataset (spam & ham emails)  
+┣ 📜 train.py             # Model training script  
+┣ 📜 requirements.txt     # List of dependencies  
+┣ 📜 README.md            # Project overview and documentation  
+┣ 📜 .gitignore           # Files to ignore during Git operations  
+
 
 ## 📧 Connect with Me
 - 👥 **LinkedIn:** www.linkedin.com/in/shoebraza02
