@@ -13,6 +13,14 @@ This project is designed to identify spam emails using machine learning techniqu
 
 - ![Screenshot 2025-03-17 050627](https://github.com/user-attachments/assets/65b6a230-1748-476a-bc07-14c3b062ca6e)
 
+## 📊 Spam vs Ham Distribution in Dataset
+- This pie chart visualizes the distribution of spam and ham (non-spam) messages in the dataset used for our Email Spam Classifier project.
+
+- Ham: 87.37%
+- Spam: 12.63%
+
+- ![Screenshot 2025-03-05 023740](https://github.com/user-attachments/assets/0128642c-56d0-44e3-b0a1-781c55675657)
+
 
 ## 🛠️ Tech Stack
 - 🐍 **Python** — Core programming language  
