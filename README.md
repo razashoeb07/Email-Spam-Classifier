@@ -19,7 +19,7 @@ This project is designed to identify spam emails using machine learning techniqu
 - Ham: 87.37%
 - Spam: 12.63%
 
-- ![Screenshot 2025-03-05 023740](https://github.com/user-attachments/assets/0128642c-56d0-44e3-b0a1-781c55675657)
+- ![Dashboard Screenshot](https://i.ibb.co/PsTnyM1M/Screenshot-2025-03-05-023740.png)
 
 
 ## 🛠️ Tech Stack
