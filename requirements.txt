@@ -1,6 +1,6 @@
 streamlit~=1.36.0
 nltk
-sklearn
+scikit-learn
 pandas~=2.2.2
 altair~=5.3.0
 matplotlib~=3.10.1
