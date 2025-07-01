@@ -1,0 +1,7 @@
+streamlit~=1.36.0
+nltk
+sklearn
+pandas~=2.2.2
+altair~=5.3.0
+matplotlib~=3.10.1
+seaborn~=0.13.2
