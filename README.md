@@ -44,37 +44,8 @@ This project is designed to identify spam emails using machine learning techniqu
 - 📬 Add real-time email filtering integration with email clients.
 
 ## 📚 Project Structure
-'''
-📦 Email-Spam-Classifier
-├── 📂 assets                        # All static assets like images and resumes
-│   ├── 🖼️ Shoebraza_Python_Developer_Resume.pdf  # Resume PDF for Shoeb Raza
-│   ├── 🖼️ codingsisfun_logo.png               # Logo used in UI
-│   ├── 🖼️ raza.jpg                            # Personal image
-│   ├── 📄 resume_saif.pdf                     # Saif's resume
-│   └── 🖼️ saif.jpeg                           # Saif's image
-│
-├── 📂 forms                         # Streamlit contact form logic
-│   └── 🧾 contact.py                        # Contact form script (used in sidebar or pages)
-│
-├── 📂 pages                         # Different Streamlit page modules (navigation system)
-│   ├── 🧾 about_me.py                      # About me section
-│   ├── 🧾 chat_bot.py                      # Chatbot (if included in dashboard)
-│   ├── 🧾 email_spam_classifire.py         # Main spam classifier page
-│   ├── 🧾 model_frequency.py               # Model-related stats
-│   ├── 🧾 overall_email_analysis.py        # Overall analysis of email dataset
-│   ├── 🧾 spam_stats.py                    # Spam-related statistics
-│   ├── 🧾 spam_trends.py                   # Spam trends over time
-│   └── 🧾 word_freq.py                     # Word frequency visualizations
-│
-├── 🙈 .gitignore                    # Git ignore file (to skip unnecessary files during commit)
-├── 🚀 email_dashboard.py           # Main Streamlit app launcher
-├── 📦 model.pkl                    # Trained ML model (saved using pickle)
-├── 📜 requirements.txt             # Python dependencies for running the app
-├── 📓 sms-spam-detection.ipynb     # Jupyter notebook for EDA and model training
-├── 📊 spam.csv                     # Input dataset (labeled spam/ham messages)
-├── 🧠 train.py                     # Script to preprocess data and train model
-└── 📦 vectorizer.pkl               # Vectorizer (like CountVectorizer/Tfidf) used for transforming text
- '''
+
+<pre> 📦 Email-Spam-Classifier ├── 📂 assets # All static assets like images and resumes │ ├── 🖼️ Shoebraza_Python_Developer_Resume.pdf # Resume PDF for Shoeb Raza │ ├── 🖼️ codingsisfun_logo.png # Logo used in UI │ ├── 🖼️ raza.jpg # Personal image │ ├── 📄 resume_saif.pdf # Saif's resume │ └── 🖼️ saif.jpeg # Saif's image │ ├── 📂 forms # Streamlit contact form logic │ └── 🧾 contact.py # Contact form script (used in sidebar or pages) │ ├── 📂 pages # Different Streamlit page modules (navigation system) │ ├── 🧾 about_me.py # About me section │ ├── 🧾 chat_bot.py # Chatbot (if included in dashboard) │ ├── 🧾 email_spam_classifire.py # Main spam classifier page │ ├── 🧾 model_frequency.py # Model-related stats │ ├── 🧾 overall_email_analysis.py # Overall analysis of email dataset │ ├── 🧾 spam_stats.py # Spam-related statistics │ ├── 🧾 spam_trends.py # Spam trends over time │ └── 🧾 word_freq.py # Word frequency visualizations │ ├── 🙈 .gitignore # Git ignore file (to skip unnecessary files during commit) ├── 🚀 email_dashboard.py # Main Streamlit app launcher ├── 📦 model.pkl # Trained ML model (saved using pickle) ├── 📜 requirements.txt # Python dependencies for running the app ├── 📓 sms-spam-detection.ipynb # Jupyter notebook for EDA and model training ├── 📊 spam.csv # Input dataset (labeled spam/ham messages) ├── 🧠 train.py # Script to preprocess data and train model └── 📦 vectorizer.pkl # Vectorizer (like CountVectorizer/Tfidf) used for transforming text </pre>
 
 ## 📧 Connect with Me
 - 👥 **LinkedIn:** www.linkedin.com/in/shoebraza02
