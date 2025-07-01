@@ -44,6 +44,7 @@ This project is designed to identify spam emails using machine learning techniqu
 - 📬 Add real-time email filtering integration with email clients.
 
 ## 📚 Project Structure
+'''
 📦 Email-Spam-Classifier
 ├── 📂 assets                        # All static assets like images and resumes
 │   ├── 🖼️ Shoebraza_Python_Developer_Resume.pdf  # Resume PDF for Shoeb Raza
@@ -73,8 +74,7 @@ This project is designed to identify spam emails using machine learning techniqu
 ├── 📊 spam.csv                     # Input dataset (labeled spam/ham messages)
 ├── 🧠 train.py                     # Script to preprocess data and train model
 └── 📦 vectorizer.pkl               # Vectorizer (like CountVectorizer/Tfidf) used for transforming text
- 
-
+ '''
 
 ## 📧 Connect with Me
 - 👥 **LinkedIn:** www.linkedin.com/in/shoebraza02
