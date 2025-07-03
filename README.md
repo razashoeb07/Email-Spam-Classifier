@@ -1,4 +1,4 @@
-## ✉️ Email Spam Classifier (Ongoing)
+## ✉️ Email Spam Classifier
 
 This project is designed to identify spam emails using machine learning techniques. It effectively differentiates between spam and legitimate emails through various classification algorithms.
 
